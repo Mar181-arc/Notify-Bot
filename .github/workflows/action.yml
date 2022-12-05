@@ -1,4 +1,4 @@
-name: Notify Bot
+8name: Notify Bot
 
 on:
   pull_request:
